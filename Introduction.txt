@@ -1,5 +1,8 @@
+
 Hello 
 My name is Abiy Tamrat and I am new to coding. 
 I hope my experience with EPFL will lead to a fruitful end.
-When I finish my course I intent to fully integrate ML in the humanitarian work that I am engaged for the last 25 years.
+When I finish my course I intend to fully integrate ML in the humanitarian work that I am engaged for the last 25 years.
 Abiy
+
+
